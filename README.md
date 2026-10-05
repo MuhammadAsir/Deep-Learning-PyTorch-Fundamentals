@@ -189,7 +189,10 @@ deep-learning-pytorch-fundamentals/
 │
 └── README.md
 ```
+
 👨‍💻 Author
 Muhammad Asir Hossain Chowdhury
+
 BSc in Computer Science & Engineering
+
 Focus: AI / Machine Learning / Deep Learning
