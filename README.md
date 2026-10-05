@@ -188,7 +188,7 @@ deep-learning-pytorch-fundamentals/
 ├── 14-Training-Challenges/
 │
 └── README.md
-
+```
 👨‍💻 Author
 Muhammad Asir Hossain Chowdhury
 BSc in Computer Science & Engineering
